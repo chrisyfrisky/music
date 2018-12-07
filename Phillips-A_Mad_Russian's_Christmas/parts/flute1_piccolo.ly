@@ -49,7 +49,7 @@ partFluteOnePiccolo = \relative c''' {
   fs8--[ g8--]
   |
   % m. 8
-  f16-.\f f16-. f8--
+  f?16-.\f f16-. f8--
   e16-. e16-. e8--
   ef16-. ef16-. ef8--
   d'16( c16) bf16-. a16-.
@@ -72,7 +72,7 @@ partFluteOnePiccolo = \relative c''' {
   fs8--[ g8--]
   |
   % m. 12
-  f16-. f16-. f8--
+  f?16-. f16-. f8--
   e16-. e16-. e8--
   ef16-. ef16-. ef8--
   |
