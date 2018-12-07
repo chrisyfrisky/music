@@ -1,0 +1,464 @@
+# -*-compilation-*-
+Processing `C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly'
+Parsing...
+Interpreting music...
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:144:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 1" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:143:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 58
+[8][16][24][32][40][48][56][64][72][80][88][96][104][112]
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:205:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 2" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:204:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 92
+[120][128][136][144][152][160][168][176]
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:264:3: warning: Two simultaneous tempo-change events, junking this one
+  
+  \tempo \markup { \larger "Movement 3" }
+C:/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ly:262:3: warning: Previous tempo-change event here
+  
+  \tempo 4 = 116
+[184][192][200][208][216][224][232][240][248][256][264][272][280]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 10 or 11 pages...
+Drawing systems...
+Layout output to `/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.ps'...
+Converting to `/Users/chris/OneDrive/Documents/LilyPond/Hinkel-Mirage/mirage.pdf'...
+Success: compilation successfully completed
