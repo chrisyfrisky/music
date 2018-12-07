@@ -1,0 +1,3 @@
+# LilyPond .log files and tmp dirs
+*.log
+tmp/
