@@ -4,7 +4,8 @@
 \include "../util/rhythm_mark.ly"
 
 \header {
-  title = \markup { \normal-text \larger "ARABIAN DANCES" }
+  pieceTitle = "Arabian Dances"
+  title = \markup { \normal-text \larger #(string-upcase pieceTitle) }
   composer = \markup \right-column {
     "BRIAN BALMAGES"
     \smaller "(ASCAP)"
@@ -16,7 +17,7 @@
   #(set-paper-size "ansi a")
   oddHeaderMarkup = \markup \fill-line {
     \on-the-fly #print-page-number-check-first
-    \fromproperty #'header:title
+    \fromproperty #'header:pieceTitle
     \on-the-fly #print-page-number-check-first
     \fromproperty #'header:part
     \on-the-fly #print-page-number-check-first
@@ -27,7 +28,7 @@
     \fromproperty #'page:page-number-string
     \on-the-fly #print-page-number-check-first
     \fromproperty #'header:part
-    \fromproperty #'header:title
+    \fromproperty #'header:pieceTitle
   }
 }
 
