@@ -4,7 +4,8 @@
 \include "../pulse.ly"
 
 \header {
-  piece = \markup { \bold "Flute 1" }
+  part = "Flute 1"
+  piece = \markup { \bold $part }
 }
 
 partFluteOne = \relative c''' {
