@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.19.82"
 \language "english"
 
 \include "../a_mad_russian's_christmas.ly"
@@ -470,7 +470,7 @@ partFluteOnePiccolo = \relative c''' {
   % m. 84
   f4-^
   d4-^
-  e2->\break
+  e2->\pageBreak
 
   |
   % m. 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97
