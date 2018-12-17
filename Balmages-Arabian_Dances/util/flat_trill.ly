@@ -6,8 +6,6 @@
 flatTrill = {
   \once \override TrillSpanner.bound-details.left.text = \markup {
     \musicglyph #"scripts.trill"
-    \teeny "("
-    \teeny \raise #0.625 \flat
-    \teeny ")"
+    \concat \teeny { "(" \raise #0.5 \flat ")" }
   }
 }
