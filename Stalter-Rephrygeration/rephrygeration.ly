@@ -1,6 +1,8 @@
 \version "2.19.82"
 \language "english"
 
+\include "../../util/mmr_range.ly"
+
 \header {
   title = "Rephrygeration"
   composer = \markup \right-column {
@@ -26,6 +28,14 @@
     \on-the-fly #print-page-number-check-first
     \fromproperty #'header:piece
     \fromproperty #'header:title
+  }
+}
+
+\layout {
+  \context {
+    \Voice
+    \consists #mmr-range-engraver
+    printMmrRange = ##t
   }
 }
 
