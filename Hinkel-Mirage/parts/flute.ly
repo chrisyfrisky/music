@@ -1,8 +1,8 @@
 \version "2.19.82"
 \language "english"
 
-\include "./util/slash.ly"
-\include "./util/beams.ly"
+\include "../util/slash.ly"
+\include "../util/beams.ly"
 
 \header {
   instrument = "Flute"

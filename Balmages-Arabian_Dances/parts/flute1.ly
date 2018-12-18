@@ -2,7 +2,7 @@
 \language "english"
 
 \include "../arabian_dances.ly"
-\include "../util/flat_trill.ly"
+\include "../../util/flat_trill.ly"
 
 \header {
   part = "Flute 1"

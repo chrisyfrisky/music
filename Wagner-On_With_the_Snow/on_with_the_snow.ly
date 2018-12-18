@@ -1,7 +1,7 @@
 \version "2.19.82"
 \language "english"
 
-\include "../util/rhythm_mark.ly"
+\include "../../util/rhythm_mark.ly"
 
 \header {
   title = "ON WITH THE SNOW!"
