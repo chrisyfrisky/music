@@ -165,8 +165,15 @@ partFluteOne = \relative c''' {
   r2
 
   |
-  % m. 44, 45, 46, 47
-  R1*4
+  % m. 44
+  R1*1
+
+
+
+  |
+  \set printMmrRange = ##f
+  % m. 45, 46, 47
+  R1*3_\markup \teeny "46, 47"
   |
   % m. 48
   bf8-.\mf r8
@@ -289,7 +296,7 @@ partFluteOne = \relative c''' {
 
   |
   % m. 70, 71, 72, 73
-  R1*4
+  R1*4_\markup \teeny "71, 72, 73"
   |
   % m. 74
   r2
@@ -310,7 +317,7 @@ partFluteOne = \relative c''' {
 
   |
   % m. 77, 78, 79, 80
-  R1*4
+  R1*4_\markup \teeny "78, 79, 80"
   |
   % m. 81
   g8-.\mf r8
@@ -337,7 +344,7 @@ partFluteOne = \relative c''' {
   g8-. r8
   |
   % m. 85, 86, 87, 88
-  R1*4\!\pageBreak
+  R1*4\!_\markup \teeny "86, 87, 88"\pageBreak
   |
   % m. 89
   g16(\ff f16 e16 d16
@@ -427,7 +434,7 @@ partFluteOne = \relative c''' {
 
   |
   % m. 105, 106
-  R1*2
+  R1*2_\markup \teeny "106"
   |
   % m. 107
   R2.*1
@@ -439,7 +446,7 @@ partFluteOne = \relative c''' {
 
   |
   % m. 109, 110
-  R1*2
+  R1*2_\markup \teeny "110"
   |
   % m. 111
   R2.*1
@@ -541,7 +548,7 @@ partFluteOne = \relative c''' {
 
   |
   % m. 132, 133, 134
-  R1*3
+  R1*3_\markup \teeny "133, 134"
   |
   % m. 135
   f8-.\mf r8_\markup { \smaller \italic "cresc." }

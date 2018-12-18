@@ -1,6 +1,8 @@
 \version "2.19.82"
 \language "english"
 
+\include "../../util/mmr_range.ly"
+
 \header {
   pieceTitle = "Pulse"
   title = \markup { \normal-text \larger #(string-upcase pieceTitle) }
@@ -27,6 +29,14 @@
     \on-the-fly #print-page-number-check-first
     \fromproperty #'header:part
     \fromproperty #'header:pieceTitle
+  }
+}
+
+\layout {
+  \context {
+    \Voice
+    \consists #mmr-range-engraver
+    printMmrRange = ##t
   }
 }
 
