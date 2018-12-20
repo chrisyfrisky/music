@@ -354,8 +354,12 @@ scoreOutline = {
   | s1*15
 
   % m. 234
-  \tempo \markup { \normal-text \smaller \italic "poco a poco rit." }
-  | s1*2
+  |
+  s4 \tempo \markup { \normal-text \smaller \italic "poco a poco rit." }
+  s2.
+
+
+  | s1*1
 
   %%% m. 236 %%%
   \rehearsalMark
