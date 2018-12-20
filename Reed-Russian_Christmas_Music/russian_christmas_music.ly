@@ -44,7 +44,7 @@ scoreOutline = {
   \overrideTimeSignatureSettings 6/4 1/4 #'(1 1 1 1 1 1) #'()
   \overrideTimeSignatureSettings 3/2 1/4 #'(1 1 1 1 1 1) #'()
   \overrideTimeSignatureSettings 2/2 1/2 #'(1 1) \beamExceptions {
-    16[ 16 16 16] 16[ 16 16 16] 16[ 16 16 16] 16[ 16 16 16]
+    16[ 16 16 16] 16[ 16 16 16] 16[ 16 16 16] 16[ 16 16 16] |
     8[ 8 8 8] 8[ 8 8 8]
   }
 
