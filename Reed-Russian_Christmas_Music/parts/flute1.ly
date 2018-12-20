@@ -596,7 +596,7 @@ partFluteOne = \relative c''' {
   a2.~\>
 
 
-  a8) r16 a16->
+  a8)[ r16 a16->]
   |
   % m. 183
   a4->(\<
