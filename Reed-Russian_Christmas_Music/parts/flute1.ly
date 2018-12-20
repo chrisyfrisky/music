@@ -674,10 +674,10 @@ partFluteOne = \relative c''' {
   \tuplet 3/2 { f16( g16 f16 } \tuplet 3/2 { e16 f16 g16 }
   \tuplet 3/2 { f16 g16 f16 } \tuplet 3/2 { e16 f16 g16 }
   \tuplet 3/2 { f16 g16 f16 } \tuplet 3/2 { e16 f16 g16 }
-  \tuplet 3/2 { f16 g16 f16 } \tuplet 3/2 { e16 f16 g16 }
+  \tuplet 3/2 { f16 g16 f16 } \tuplet 3/2 { e16 f16 g16) }
   |
   % m. 195
-  g8-.) r8
+  g8-. r8
   r4
   r4
   \tuplet 3/2 { g16(\< a16 g16 } f32 e32 f32 g32
