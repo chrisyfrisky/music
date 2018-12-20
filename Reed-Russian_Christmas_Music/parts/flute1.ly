@@ -600,7 +600,7 @@ partFluteOne = \relative c''' {
   |
   % m. 183
   a4->(\<
-  b4
+  b4\!
   a2~\>
 
   |
