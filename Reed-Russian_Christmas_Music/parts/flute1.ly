@@ -485,7 +485,7 @@ partFluteOne = \relative c''' {
   c4
   |
   % m. 137
-  d4
+  d4\!
   ef4
   f4
   c2)\>
