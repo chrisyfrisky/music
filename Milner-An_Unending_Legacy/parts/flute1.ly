@@ -260,7 +260,7 @@ partFluteOne = \relative c''' {
   % m. 69
   gf,,16( bf16 df16 gf16
   df16 bf16 gf8)
-  gf16( bf16 df16 gf16
+  gf16 bf16( df16 gf16
   |
   % m. 70
   af16 ef16 c8)
