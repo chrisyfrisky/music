@@ -21,7 +21,7 @@ patternOneB = { gf16 ef16 df16 ef16 }
 
 dfEf = { df16 ef16 df16 ef16 }
 
-EfEF = { \appoggiatura { ef32 e32 } f8-. }
+gracePattern = { \appoggiatura { ef32 e32 } f8-. }
 
 partFluteOneTwo = \relative c''' {
   % m. 1, 2, 3, 4, 5, 6, 7, 8
