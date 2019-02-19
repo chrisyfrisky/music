@@ -118,6 +118,7 @@ scoreOutline = {
   % m. 183
   \tempo "Sostenuto"
   \time 3/2
+  \mark \markup { \line "(" \note #"2." #UP "=" \note #"2" #UP ")" }
   \bar "||"
   | s1.*8
 
@@ -128,6 +129,7 @@ scoreOutline = {
   % m. 199
   \time 3/4
   \tempo "Con Islancio" 4 = 144
+  \mark \markup { \line "(" \note #"4" #UP "=" \note #"4" #UP ")" }
   \bar "||"
   | s2.*24
 
