@@ -135,7 +135,11 @@ scoreOutline = {
 
   %%% m. 223 %%%
   \rehearsalMark
-  | s2.*18
+  | s2.*11
+
+  % m. 234
+  \revertTimeSignatureSettings 3/4
+  | s2.*7
 
   %%% m. 241 %%% ORIGINAL HAS ENGRAVING MISTAKE HERE!!!
   \rehearsalMark
