@@ -341,7 +341,7 @@ partFluteOneTwo = \relative c''' {
   af8( gf8 ef8)
   |
   % m. 146
-  df8.
+  df4.
   ef8( df8 ef8)
   |
   % m. 147
